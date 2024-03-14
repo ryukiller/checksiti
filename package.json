@@ -1,0 +1,17 @@
+{
+  "name": "checksiti",
+  "version": "1.0.0",
+  "description": "check se il sito è online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "express": "^4.18.3",
+    "puppeteer": "^22.4.1",
+    "resemblejs": "^5.0.0"
+  }
+}
